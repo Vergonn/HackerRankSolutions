@@ -1,0 +1,1 @@
+SELECT name FROM employee GROUP BY name, employee_id ASC;
