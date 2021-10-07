@@ -5,10 +5,42 @@
 </p>
 <h4 align="center">Solutions to HackerRank Problems</h4>
 
-* [Algorithms](##algorithms)
-* [Data Structures](##data-structures)
-* [General Programming](##general-programming)
-* [SQL](##sql)
+* [10 Days of Statistics](#10-days-of-statistics)
+* [Algorithms](#algorithms)
+* [Data Structures](#data-structures)
+* [General Programming](#general-programming)
+* [SQL](#sql)
+
+## 10 Days of Statistics
+| Challenge | Points | Solution |
+|:---------:|:------:|:--------:|
+| [Day 0: Mean, Median, and Mode](https://www.hackerrank.com/challenges/s10-basic-statistics)                                       | 30 | [C# Solution](/10%20Days%20of%20Statistics/CS/Day0%20-%20Mean,%20Median,%20and%20Mode.cs)                  |
+| [Day 0: Weighted Mean](https://www.hackerrank.com/challenges/s10-weighted-mean)                                                   | 30 | [C# Solution](/10%20Days%20of%20Statistics/CS/Day0%20-%20Weighted%20Mean.cs)                               |
+| [Day 1: Quartiles](https://www.hackerrank.com/challenges/s10-quartiles)                                                           | 30 | [C# Solution](/10%20Days%20of%20Statistics/CS/Day1%20-%20Interquartile%20Range.cs)                         |
+| [Day 1: Interquartile Range](https://www.hackerrank.com/challenges/s10-interquartile-range)                                       | 30 | [C# Solution](/10%20Days%20of%20Statistics/CS/Day1%20-%20Quartiles.cs)                                     |
+| [Day 1: Standard Deviation](https://www.hackerrank.com/challenges/s10-standard-deviation)                                         | 30 | [C# Solution](/10%20Days%20of%20Statistics/CS/Day1%20-%20Standard%20Deviation.cs)                          |
+| [Day 2: Basic Probability](https://www.hackerrank.com/challenges/s10-mcq-1)                                                       | 10 | [C# Solution](/10%20Days%20of%20Statistics/CS/Day2%20-%20Basic%20Probability.cs)                           |
+| [Day 2: More Dice](https://www.hackerrank.com/challenges/s10-mcq-2)                                                               | 10 | [C# Solution](/10%20Days%20of%20Statistics/CS/Day2%20-%20Compound%20Event%20Probability.cs)                |
+| [Day 2: Compound Event Probability](https://www.hackerrank.com/challenges/s10-mcq-3)                                              | 10 | [C# Solution](/10%20Days%20of%20Statistics/CS/Day2%20-%20More%20Dice.cs)                                   |
+| [Day 3: Conditional Probability](https://www.hackerrank.com/challenges/s10-mcq-4)                                                 | 10 | [C# Solution](/10%20Days%20of%20Statistics/CS/Day3%20-%20Cards%20of%20the%20Same%20Suit.cs)                |
+| [Day 3: Cards of the Same Suit](https://www.hackerrank.com/challenges/s10-mcq-5)                                                  | 10 | [C# Solution](/10%20Days%20of%20Statistics/CS/Day3%20-%20Conditional%20Probability.cs)                     |
+| [Day 3: Drawing Marbles](https://www.hackerrank.com/challenges/s10-mcq-6)                                                         | 10 | [C# Solution](/10%20Days%20of%20Statistics/CS/Day3%20-%20Drawing%20Marbles.cs)                             |
+| [Day 4: Binomial Distribution I](https://www.hackerrank.com/challenges/s10-binomial-distribution-1)                               | 30 | [C# Solution](/10%20Days%20of%20Statistics/CS/Day4%20-%20Binomial%20Distribution%20I.cs)                   |
+| [Day 4: Binomial Distribution II](https://www.hackerrank.com/challenges/s10-binomial-distribution-2)                              | 30 | [C# Solution](/10%20Days%20of%20Statistics/CS/Day4%20-%20Binomial%20Distribution%20II.cs)                  |
+| [Day 4: Geometric Distribution I](https://www.hackerrank.com/challenges/s10-geometric-distribution-1)                             | 30 | [C# Solution](/10%20Days%20of%20Statistics/CS/Day4%20-%20Geometric%20Distribution%20I.cs)                  |
+| [Day 4: Geometric Distribution II](https://www.hackerrank.com/challenges/s10-geometric-distribution-2)                            | 30 | [C# Solution](/10%20Days%20of%20Statistics/CS/Day4%20-%20Geometric%20Distribution%20II.cs)                 |
+| [Day 5: Poisson Distribution I](https://www.hackerrank.com/challenges/s10-poisson-distribution-1)                                 | 30 | [C# Solution](/10%20Days%20of%20Statistics/CS/Day5%20-%20Normal%20Distribution%20I.cs)                     |
+| [Day 5: Poisson Distribution II](https://www.hackerrank.com/challenges/s10-poisson-distribution-2)                                | 30 | [C# Solution](/10%20Days%20of%20Statistics/CS/Day5%20-%20Normal%20Distribution%20II.cs)                    |
+| [Day 5: Normal Distribution I](https://www.hackerrank.com/challenges/s10-normal-distribution-1)                                   | 30 | [C# Solution](/10%20Days%20of%20Statistics/CS/Day5%20-%20Poisson%20Distribution%20I.cs)                    |
+| [Day 5: Normal Distribution II](https://www.hackerrank.com/challenges/s10-normal-distribution-2)                                  | 30 | [C# Solution](/10%20Days%20of%20Statistics/CS/Day5%20-%20Poisson%20Distribution%20II.cs)                   |
+| [Day 6: The Central Limit Theorem I](https://www.hackerrank.com/challenges/s10-the-central-limit-theorem-1)                       | 30 | [C# Solution](/10%20Days%20of%20Statistics/CS/Day6%20-%20The%20Central%20Limit%20Theorem%20I.cs)           |
+| [Day 6: The Central Limit Theorem II](https://www.hackerrank.com/challenges/s10-the-central-limit-theorem-2)                      | 30 | [C# Solution](/10%20Days%20of%20Statistics/CS/Day6%20-%20The%20Central%20Limit%20Theorem%20II.cs)          |
+| [Day 6: The Central Limit Theorem III](https://www.hackerrank.com/challenges/s10-the-central-limit-theorem-3)                     | 30 | [C# Solution](/10%20Days%20of%20Statistics/CS/Day6%20-%20The%20Central%20Limit%20Theorem%20III.cs)         |
+| [Day 7: Pearson Correlation Coefficient I](https://www.hackerrank.com/challenges/s10-pearson-correlation-coefficient)             | 30 | [C# Solution](/10%20Days%20of%20Statistics/CS/Day7%20-%20Pearson%20Correlation%20Coefficient%20I.cs)       |
+| [Day 7: Spearman's Rank Correlation Coefficient](https://www.hackerrank.com/challenges/s10-spearman-rank-correlation-coefficient) | 30 | [C# Solution](/10%20Days%20of%20Statistics/CS/Day7%20-%20Spearman's%20Rank%20Correlation%20Coefficient.cs) |
+| [Day 8: Least Square Regression Line](https://www.hackerrank.com/challenges/s10-least-square-regression-line)                     | 30 | [C# Solution](/10%20Days%20of%20Statistics/CS/Day8%20-%20Least%20Square%20Regression%20Rate.cs)            |
+| [Day 8: Pearson Correlation Coefficient II](https://www.hackerrank.com/challenges/s10-mcq-7)                                      | 30 | [C# Solution](/10%20Days%20of%20Statistics/CS/Day8%20-%20Pearson%20Correlation%20Coefficient%20II.cs)      |
+| [Day 9: Multiple Linear Regression](https://www.hackerrank.com/challenges/s10-multiple-linear-regression)                         | 30 | [C# Solution](/10%20Days%20of%20Statistics/CS/Day9%20-%20Multiple%20Linear%20Regression.cs)                |
 
 ## Algorithms
 
@@ -20,7 +52,7 @@
 
 |Subdomain   |Challenge                                                                                                                     |Points|Solution                                                                                     |
 |:------------:|:------------------------------------------------------------------------------------------------------------------------------:|:------:|---------------------------------------------------------------------------------------------:|
-|Basic Select|[Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query)                              |10    |[MySQL Solution](/SQL/Basic_Select/Revising%20the%20Select%20Query%20I.sql)               |
+|Basic Select|[Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query)                              |10    |[MySQL Solution](/SQL/Basic%20Select/Revising%20the%20Select%20Query%20I.sql)               |
 |Basic Select|[Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2)                           |10    |[MySQL Solution](/SQL/Basic%20Select/Revising%20the%20Select%20Query%20II.sql)             |
 |Basic Select|[Select All](https://www.hackerrank.com/challenges/select-all-sql)                                                          |10    |[MySQL Solution](/SQL/Basic%20Select/Select%20All.sql)                                     |
 |Basic Select|[Select By ID](https://www.hackerrank.com/challenges/select-by-id)                                                          |10    |[MySQL Solution](/SQL/Basic%20Select/Select%20By%20ID.sql)                                 |
@@ -61,3 +93,5 @@
 |Aggregation |[Weather Observation Station 18](https://www.hackerrank.com/challenges/weather-observation-station-18)                      |25    |[MySQL Solution](/SQL/Aggregation/Weather%20Observation%20Station%2018.sql)                |
 |Aggregation |[Weather Observation Station 19](https://www.hackerrank.com/challenges/weather-observation-station-19)                      |30    |[MySQL Solution](/SQL/Aggregation/Weather%20Observation%20Station%2019.sql)                |
 |Aggregation |[Weather Observation Station 20](https://www.hackerrank.com/challenges/weather-observation-station-20)                      |40    |[MySQL Solution](/SQL/Aggregation/Weather%20Observation%20Station%2020.sql)                |
+| Alternative Queries | [Draw the Triangle 1](https://www.hackerrank.com/challenges/draw-the-triangle-1) | 25 | [MySQL Solution](/SQL/Aggregation/Draw%20The%20Triangle%201.sql) |
+| Alternative Queries | [Draw the Triangle 2](https://www.hackerrank.com/challenges/draw-the-triangle-2) | 25 | [MySQL Solution](/SQL/Aggregation/Draw%20The%20Triangle%202.sql) |
