@@ -93,5 +93,5 @@
 |Aggregation |[Weather Observation Station 18](https://www.hackerrank.com/challenges/weather-observation-station-18)                      |25    |[MySQL Solution](/SQL/Aggregation/Weather%20Observation%20Station%2018.sql)                |
 |Aggregation |[Weather Observation Station 19](https://www.hackerrank.com/challenges/weather-observation-station-19)                      |30    |[MySQL Solution](/SQL/Aggregation/Weather%20Observation%20Station%2019.sql)                |
 |Aggregation |[Weather Observation Station 20](https://www.hackerrank.com/challenges/weather-observation-station-20)                      |40    |[MySQL Solution](/SQL/Aggregation/Weather%20Observation%20Station%2020.sql)                |
-| Alternative Queries | [Draw the Triangle 1](https://www.hackerrank.com/challenges/draw-the-triangle-1) | 25 | [MySQL Solution](/SQL/Aggregation/Draw%20The%20Triangle%201.sql) |
-| Alternative Queries | [Draw the Triangle 2](https://www.hackerrank.com/challenges/draw-the-triangle-2) | 25 | [MySQL Solution](/SQL/Aggregation/Draw%20The%20Triangle%202.sql) |
+| Alternative Queries | [Draw the Triangle 1](https://www.hackerrank.com/challenges/draw-the-triangle-1) | 25 | [MySQL Solution](/SQL/Alternative%20Queries/Draw%20The%20Triangle%201.sql) |
+| Alternative Queries | [Draw the Triangle 2](https://www.hackerrank.com/challenges/draw-the-triangle-2) | 25 | [MySQL Solution](/SQL/Alternative%20Queries/Draw%20The%20Triangle%202.sql) |
